@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hello my name is harimchung 😀
 ---
-🌱 I'm currently learning Python
+🌱 I'm currently learning Python \n
 💙 SSAFY 8th
 
 
