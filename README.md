@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Hello my name is harimchung 😀
+---
+🌱 I'm currently learning Python
+💙 SSAFY 8th
+
 
 <!--
 **harimchung/harimchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
