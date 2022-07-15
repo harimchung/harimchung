@@ -6,7 +6,7 @@
 
 🇰🇷 Based on Gwanju,Korea
 
-👩‍🔧MECHANIC TO 👩‍💻 SW ENGINEER
+👩‍🔧MECHANICAL ENGINEERING TO 👩‍💻 SW ENGINEER
 
 🐶 💗 🐹
 <!--
