@@ -2,8 +2,7 @@
 ### Hello my name is harimchung 😀
 ---
 🌱 I'm currently learning Python
-
-💙 SSAFY 8th
+💙 SSAFY **8th**
 
 
 <!--
