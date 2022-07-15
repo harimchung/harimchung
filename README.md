@@ -1,10 +1,14 @@
 ### Hello my name is harimchung( 정하림) 😀
 ---
 🌱 I'm currently learning Python
+
 💙 SSAFY **8th**
+
 🇰🇷 Based on Gwanju,Korea
 
+👩‍🔧MECHANIC TO 👩‍💻 SW ENGINEER
 
+🐶 💗 🐹
 <!--
 **harimchung/harimchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
