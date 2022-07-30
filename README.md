@@ -8,7 +8,7 @@
 
 👩‍🔧MECHANICAL ENGINEERING TO 👩‍💻 SW ENGINEER
 
-🐶 💗 🐹
+🐹
 <!--
 **harimchung/harimchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
