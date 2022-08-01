@@ -1,7 +1,5 @@
 ### Hello my name is harimchung( 정하림) 😀
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bl7655)](https://solved.ac/bl7655/)
-
 
 🌱 I'm currently learning Python
 
@@ -12,6 +10,7 @@
 👩‍🔧MECHANICAL ENGINEERING TO 👩‍💻 SW ENGINEER
 
 🐹
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bl7655)](https://solved.ac/bl7655/)
 <!--
 **harimchung/harimchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
