@@ -1,13 +1,12 @@
-### Hello my name is harimchung( 정하림) 😀
+### Hello my name is harimchung(정하림) 😀
 ---
 
-🌱 I'm currently learning Python
+💙 SSAFY **8th** & SSAFICIAL 8th
 
-💙 SSAFY **8th**
-
-🇰🇷 Based on Gwanju,Korea
+🇰🇷 Based on SEOUL,Korea
 
 👩‍🔧MECHANICAL ENGINEERING TO 👩‍💻 SW ENGINEER
+
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bl7655)](https://solved.ac/bl7655/)
